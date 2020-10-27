@@ -6,7 +6,7 @@
 
 ### 1.1 数据源
 
-- [job_info.xlsx(数据链接)](https://gitee.com/autumnhui/Learn_PythonWebDM/blob/master/Prj_51job/%E6%B8%85%E6%B4%97%E5%90%8Ejob_info.xlsx)
+- [job_info.xlsx(数据链接)](https://gitee.com/Owenzhh/pandas_final/blob/master/Prj_51job/%E6%B8%85%E6%B4%97%E5%90%8Ejob_info.xlsx)
 
 ### 1.2 数据分析目标
 
@@ -58,12 +58,12 @@
 
 ## 2.数据分析电子档
 
-- 项目人：丘天惠
-- 时间：2020.7.16
+- 项目人：蓝启良
+- 时间：2020.10.20
 - 数据源：
-- [job_info.xlsx(数据链接)](https://gitee.com/autumnhui/Learn_PythonWebDM/blob/master/Prj_51job/%E6%B8%85%E6%B4%97%E5%90%8Ejob_info.xlsx)
+- [job_info.xlsx(数据链接)](https://gitee.com/Owenzhh/pandas_final/blob/master/Prj_51job/%E6%B8%85%E6%B4%97%E5%90%8Ejob_info.xlsx)
 - 目标：通过分析各行业的数据，总结“数据”相关职业的基本要求，进而刻画“数据”相关职业的要求形象。
-- [主文件ipynb跳转](https://gitee.com/autumnhui/Learn_PythonWebDM/blob/master/Prj_51job/get_job.ipynb)
+- [主文件ipynb跳转](https://gitee.com/Owenzhh/pandas_final/blob/master/Prj_51job/get_job.ipynb)
 
 ---
 
@@ -85,7 +85,8 @@
 
 ## *PRD1*数据加值宣言
 
-本项目产出自按“数据”为关键词，挖掘的关于 *前程无忧51job中各行业* 的工作数据（<b>原数据共5849条,清洗后2465条。详见[Excel表数据链接](https://gitee.com/autumnhui/Learn_PythonWebDM/blob/master/Prj_51job/%E6%B8%85%E6%B4%97%E5%90%8Ejob_info.xlsx)</b>），以解决（不一定准确，但具有参考价值）“数据”相关的就业需求及特性的就业分析问题。
+本项目产出自按“数据”为关键词，挖掘的关于 *前程无忧51job中各行业* 的工作数据（<b>原数据共5849条,清洗后2465条。
+以解决（不一定准确，但具有参考价值）“数据”相关的就业需求及特性的就业分析问题。
 
 * 关键词：数据
 * 页数：所有（1-100）
@@ -95,7 +96,7 @@
 * 爬取思路：先针对某一页数据的一级页面做一个解析，然后再进行二级页面做一个解析，最后再进行翻页操作
 * 使用工具：Python+requests+lxml+pandas+time
 * 网站解析方式：Xpath
-* 具体执行请见：[主文件ipynb跳转](https://gitee.com/autumnhui/Learn_PythonWebDM/blob/master/Prj_51job/get_job.ipynb)
+* 具体执行请见：[主文件ipynb跳转](https://gitee.com/Owenzhh/pandas_final/blob/master/Prj_51job/get_job.ipynb)
 
 ## *PRD2*数据加值
 
@@ -141,6 +142,6 @@
 
 ---
 
-* [主文件ipynb跳转](https://gitee.com/autumnhui/Learn_PythonWebDM/blob/master/Prj_51job/get_job.ipynb)
+* [主文件ipynb跳转](https://gitee.com/Owenzhh/pandas_final/blob/master/Prj_51job/get_job.ipynb)
 
-* [Excel表数据链接](https://gitee.com/autumnhui/Learn_PythonWebDM/blob/master/Prj_51job/%E6%B8%85%E6%B4%97%E5%90%8Ejob_info.xlsx)
+* [Excel表数据链接](https://gitee.com/Owenzhh/pandas_final/blob/master/Prj_51job/%E6%B8%85%E6%B4%97%E5%90%8Ejob_info.xlsx)

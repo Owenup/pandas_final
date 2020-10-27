@@ -2,9 +2,8 @@
 
 > Tips:交互可视化图表运行步骤
 
-  1. 下载项目压缩包[点击下载](https://gitee.com/autumnhui/Learn_PythonDA/raw/master/%E5%AE%9E%E8%B7%B5%E9%A1%B9%E7%9B%AE/Prj_Covid-19/Prj_Covid-19.zip)
+  1. 下载项目压缩包[点击下载](https://gitee.com/Owenzhh/pandas_final/raw/master/Prj_Covid-19/Prj_Covid-19.zip)
   2. 解压后运行  ```app.py``` 文件(需安装相关模块)
-  3. 浏览器打开地址：127.0.0.1:5000
 
 ---
 
@@ -127,8 +126,8 @@
 
 ## 2.数据分析电子档
 
-- 项目人：丘天惠
-- 时间：2020.7.16
+- 项目人：蓝启良
+- 时间：2020.10.20
 - 数据源：
   - china_provincedata.csv
   - countrydata.csv
